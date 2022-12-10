@@ -1,0 +1,2 @@
+# SkinnedMeshBoneObjectSelector
+SkinnedMeshRendereのbonesの保持しているGameObjectを選択します
